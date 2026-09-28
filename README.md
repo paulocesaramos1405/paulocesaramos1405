@@ -2,8 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pauo César, tenho 21 anos e sou natural de Fortaleza-Ceará.
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas na PUC Minas e estou no 3º Semestre. Sou apaixonado por tecnologia e desenvolvimento de soluções que ajudem a melhorar a qualidade de vida da sociedade. Aqui está o meu "[Portfólio](https://paulocesardeveloper.netlify.app/)" para conferir.
+Me chamo Pauo César, tenho 22 anos e sou natural de Fortaleza-Ceará.
+Sou graduado em Análise e Desenvolvimento de Sistemas na PUC Minas e estou cursando MBA em Engenharia de Dados na Universidade de Fortaleza. Sou apaixonado por tecnologia e desenvolvimento de soluções que ajudem a melhorar a qualidade de vida da sociedade. Aqui está o meu "[Portfólio](https://paulocesardeveloper.netlify.app/)" para conferir.
 
 Em minha tragetória de desenvolvimento, as linguagens nas quais eu mais possuo conhecimento para solucionar problemas são: Python para análise de dados e React-native para aplicações móveis. Embora possuo eperiência em linguagens como Java, JavaScript e Figma para design UI & UX.
 
